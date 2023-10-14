@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1,
+p {
+  font-family: Lato;
+}
+.labeltext {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.termsandcond {
+  display: grid;
+  grid-template-columns: 30px auto;
+}
+.radiobtn {
+  margin-top: 15px;
+}
+
+span {
+  font-weight: 600;
+}
+.formdata {
+  margin-left: 5px;
+}
+.btn {
+  height: 40px;
+  width: 310px;
+  color: #2146a1;
+  font-size: 15px;
+  text-decoration: solid;
+  font-weight: bold;
+}
+.inputdata {
+  height: 40px;
+  width: 310px;
+}
+.paradata {
+  font-size: 15px;
+}
